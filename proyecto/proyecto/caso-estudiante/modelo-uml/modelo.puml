@@ -1,0 +1,12 @@
+@startuml
+
+class  Persona {
+  N_Matricula: string
+  nombres : string
+}
+
+class Estudiantes{
+
+
+
+}
